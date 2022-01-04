@@ -1,0 +1,1 @@
+# blogvault_code_guidelines
